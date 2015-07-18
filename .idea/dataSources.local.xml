@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL - workshop@localhost" uuid="b50a5d55-7d08-4fdf-8c25-f8b41c2c7527">
+      <secret-storage>master_key</secret-storage>
+      <user-name>Ryszard</user-name>
+      <schema-pattern>workshop.*</schema-pattern>
+      <default-schemas>workshop.*</default-schemas>
+    </data-source>
+  </component>
+</project>
